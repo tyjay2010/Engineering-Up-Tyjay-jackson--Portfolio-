@@ -1,9 +1,9 @@
-﻿# Sir Kickington, the coded robot car
-I am working on a code powered car that runs off code I made in the Arudino IDE software which works in tandem with the Arduino microcontroller. During this project I have added my own creative spin to the project and created something amazingly unique.
-
+﻿### **EU_Template_Portfolio**
+ #Project Name/Title Goes Here
+This will serve as a brief description of your projects. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make her/him want to read more.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Parker M.| School of theArts | Mechanical Engineering | 11th 
+| Your Name| Current Highschool | Mechanical Engineering | Senior 
 
 ![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
