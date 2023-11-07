@@ -16,7 +16,7 @@ My final milestone, I've come a long way from where I started just a couple of m
 # Final Schematic Sir Kickington 
 ![Relevant Name](https://live.staticflickr.com/65535/52833486018_300de50504_h.jpg)
 
-Second Milestone 
+# Second Milestone 
 
 # First Milestone
   
