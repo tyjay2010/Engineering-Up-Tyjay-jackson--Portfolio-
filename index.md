@@ -19,11 +19,12 @@ My final milestone, I've come a long way from where I started just a couple of m
 
 
 
-# First Milestone
-  [![tyjay video](https://youtu.be/J9cyhNqL_pc?si=95gCvlpBUTAn0OZ2)
+[![tyjay](https://res.cloudinary.com/marcomontalbano/image/upload/v1729202011/video_to_markdown/images/youtube--J9cyhNqL_pc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/J9cyhNqL_pc?si=U5ByVb2q9vIoU-ac "tyjay")
+  
   
 
-My first milestone was being able to first build the Adruino car, then, be able to code using Arduino IDE allowing the car to move. Then
-knowing how to take a hit and get back up again and think more better than give up on my self .I also have enough knowledge to be able to talk about how i code in detail what the Arduino Uno microcontroller is and how an H-Bridge works.That infare send IrReceiver decode to move my rc car than i connected my mimi breadboard to all the wire to place on my acylic plate.  
+My first milestone was being able to first build the Arduino car, then, being able to code using Arduino IDE allowing the car to move. Then
+knowing how to take a hit and get back up again and think more better than give up on myself .I also have enough knowledge to be able to talk about how i code in detail what the Arduino Uno microcontroller is and how an H-Bridge works.That infrared send IrReceiver decode to move my rc car than i connected my mini breadboard to all the wire to place on my acrylic plate
+  
 
 [![First Arduino Car Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1679433959/video_to_markdown/images/youtube--gYL3vr7hr5U-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=gYL3vr7hr5U&t=1s "First Arduino Car Milestone")
