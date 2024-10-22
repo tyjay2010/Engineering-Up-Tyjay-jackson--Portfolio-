@@ -27,4 +27,4 @@ My first milestone was being able to first build the Arduino car, then, being ab
 knowing how to take a hit and get back up again and think more better than give up on myself .I also have enough knowledge to be able to talk about how i code in detail what the Arduino Uno microcontroller is and how an H-Bridge works.That infrared send IrReceiver decode to move my rc car than i connected my mini breadboard to all the wire to place on my acrylic plate
   
 
-![First](https://www.flickr.com/photos/201661499@N03/54086768844/)
+![First](https://live.staticflickr.com/65535/54086768844_528df78dde_n.jpg)
