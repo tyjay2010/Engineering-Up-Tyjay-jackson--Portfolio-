@@ -1,10 +1,9 @@
-Tyjay poertfolio
-This robote would change how people look at other robote and how i could help me and other and my work would interest you to my robote
-and i hop you would like the other idiea that i may creat over the spain of this program.
+Bob 
+
 
 | **Engineer** | east high School** | soler   | 9 |
 |:--:|:--:|:--:|:--:|
-| Tyjay jackson  east high school  |  Engineering | freshman 
+| Tyjay   east high school  |  Engineering | freshman 
 
 ![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
