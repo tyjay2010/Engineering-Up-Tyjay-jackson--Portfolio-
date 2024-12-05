@@ -1,15 +1,14 @@
-The device produces sounds, yet it does not possess the ability to convey emotions. Given the high noise levels, I have made several adjustments to optimize its speed and direction. I have put all these in code. This Arduino serves as the best option currently available for individuals aged 14 and olde.
+Greetings! My name is Tyjay, and I would like to present my Arduino project. My first goal was to make an LED blink at both a fast and a slow rate. I experimented with the Arduino to create different delays for the LED, allowing it to blink quickly and then more slowly. For my second addition, I connected various wires to the pins on the Arduino, which provided a specific output based on the configuration, and wrote code to enable movement For my self. For my third component, I worked with a buzzer, programming it to produce a single sound with a delay when it detects something in front of it.                          
 
-
-| **Engineer** | east high School** | soler   | 9 |
+| **Engineer** | east high School** | Solar   | 9 |
 |:--:|:--:|:--:|:--:|
-| Tyjay   east high school  |  Engineering | freshman 
+| Tyjay     |  Engineering | freshman 
 
 ![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
 # Final Milestone
 
-My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
+My 
 
 [![Final Arduino Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1682461069/video_to_markdown/images/youtube--IPL8EP8abRU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=IPL8EP8abRU "Final Arduino Project")
 
