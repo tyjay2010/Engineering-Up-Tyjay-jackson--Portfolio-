@@ -1,6 +1,4 @@
-Bob the robote 32 year the robot move back in front and make lound soumd it does make emotion. And to all these 
-loud sound i had to cod bod meny time to delay the speed and turn.
- 
+Bob the Robot's 32-year-old model moves forward and makes loud noises without showing emotions. I had to rebuild it several times to fix the speed and direction. This Arduino is the best choice for 14-year-olds.
 
 
 | **Engineer** | east high School** | soler   | 9 |
