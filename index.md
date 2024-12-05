@@ -1,6 +1,6 @@
 Greetings! My name is Tyjay, and I would like to present my Arduino project. My first goal was to make an LED blink at both a fast and a slow rate. I experimented with the Arduino to create different delays for the LED, allowing it to blink quickly and then more slowly. For my second addition, I connected various wires to the pins on the Arduino, which provided a specific output based on the configuration, and wrote code to enable movement For my self. For my third component, I worked with a buzzer, programming it to produce a single sound with a delay when it detects something in front of it.                          
 
-| **Engineer** | east high School** | Solar   | 9 |
+| **Engineer** | east high School** | Solar engineer  | 9 |
 |:--:|:--:|:--:|:--:|
 | Tyjay     |  Engineering | freshman 
 
