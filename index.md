@@ -1,4 +1,6 @@
-Bob 
+Bob the robote 32 year the robot move back in front and make lound soumd it does make emotion. And to all these 
+loud sound i had to cod bod meny time to delay the speed and turn.
+ 
 
 
 | **Engineer** | east high School** | soler   | 9 |
