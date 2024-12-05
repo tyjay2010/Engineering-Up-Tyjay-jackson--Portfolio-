@@ -1,4 +1,4 @@
-The device produces sounds, yet it does not possess the ability to convey emotions. Given the high noise levels, I have made several adjustments to optimize its speed and direction. This Arduino serves as the best option currently available for individuals aged 14 and olde.
+The device produces sounds, yet it does not possess the ability to convey emotions. Given the high noise levels, I have made several adjustments to optimize its speed and direction. I have put all these in code. This Arduino serves as the best option currently available for individuals aged 14 and olde.
 
 
 | **Engineer** | east high School** | soler   | 9 |
@@ -20,10 +20,7 @@ My final milestone, I've come a long way from where I started just a couple of m
 
 [![tyjay](https://res.cloudinary.com/marcomontalbano/image/upload/v1729202011/video_to_markdown/images/youtube--J9cyhNqL_pc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/J9cyhNqL_pc?si=U5ByVb2q9vIoU-ac "tyjay")
   
-  
+   Achieving my first milestone of building the Arduino car was an exhilarating experience. Not only did I succeed in constructing it, but I also learned to code using the Arduino IDE to control its movement. This journey taught me the value of resilience; I learned to rise after setbacks and think logically instead of giving up. I now possess the knowledge to explain my coding process in detail, including the workings of the Arduino Uno microcontroller and the function of an H-Bridge. By utilizing an infrared receiver to decode signals, I was able to make my RC car move as intended. I also connected all the components to a mini breadboard, securely placing it on my acrylic plate.
 
-My first milestone was being able to first build the Arduino car, then, being able to code using Arduino IDE allowing the car to move. Then
-knowing how to take a hit and get back up again and think more better than give up on myself .I also have enough knowledge to be able to talk about how i code in detail what the Arduino Uno microcontroller is and how an H-Bridge works.That infrared send IrReceiver decode to move my rc car than i connected my mini breadboard to all the wire to place on my acrylic plate
-  
 
 ![First](https://live.staticflickr.com/65535/54086768844_528df78dde_n.jpg)
