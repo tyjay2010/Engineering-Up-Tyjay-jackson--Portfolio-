@@ -1,4 +1,4 @@
-Bob the Robot's 32-year-old model moves forward and makes loud noises without showing emotions. I had to rebuild it several times to fix the speed and direction. This Arduino is the best choice for 14-year-olds.
+The device produces sounds, yet it does not possess the ability to convey emotions. Given the high noise levels, I have made several adjustments to optimize its speed and direction. This Arduino serves as the best option currently available for individuals aged 14 and olde.
 
 
 | **Engineer** | east high School** | soler   | 9 |
