@@ -4,7 +4,7 @@ Greetings! My name is Tyjay, and I would like to present my Arduino project. My 
 |:--:|:--:|:--:|:--:|
 | Tyjay     |  Engineering | freshman 
 
-![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
+![Relevant Name](.https://flic.kr/p/2qzbZJt)
 
 # Final Milestone
 
