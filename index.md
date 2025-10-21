@@ -17,7 +17,7 @@ My
 
 
 
-[![tyjay](https://res.cloudinary.com/marcomontalbano/image/upload/v1729202011/video_to_markdown/images/youtube--J9cyhNqL_pc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/J9cyhNqL_pc?si=U5ByVb2q9vIoU-ac "tyjay")
+[![tyjay](
   
    Achieving my first milestone of building the Arduino car was an exhilarating experience. Not only did I succeed in constructing it, but I also learned to code using the Arduino IDE to control its movement. This journey taught me the value of resilience; I learned to rise after setbacks and think logically instead of giving up. I now possess the knowledge to explain my coding process in detail, including the workings of the Arduino Uno microcontroller and the function of an H-Bridge. By utilizing an infrared receiver to decode signals, I was able to make my RC car move as intended. I also connected all the components to a mini breadboard, securely placing it on my acrylic plate.
 
