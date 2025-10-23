@@ -17,7 +17,7 @@ My
 
 
 
-[![tyjay](
+[![tyjay]( [![VIDEO 1](https://img.youtube.com/vi/J9cyhNqL_pc/maxresdefault.jpg)](https://www.youtube.com/watch?v=J9cyhNqL_pc)
   
    Achieving my first milestone of building the Arduino car was an exhilarating experience. Not only did I succeed in constructing it, but I also learned to code using the Arduino IDE to control its movement. This journey taught me the value of resilience; I learned to rise after setbacks and think logically instead of giving up. I now possess the knowledge to explain my coding process in detail, including the workings of the Arduino Uno microcontroller and the function of an H-Bridge. By utilizing an infrared receiver to decode signals, I was able to make my RC car move as intended. I also connected all the components to a mini breadboard, securely placing it on my acrylic plate.
 
