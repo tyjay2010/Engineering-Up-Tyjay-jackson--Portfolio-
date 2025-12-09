@@ -10,7 +10,7 @@ Greetings! My name is Tyjay, and I would like to present my Arduino project. My 
 
 My 
 
-[![Final Arduino Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1682461069/video_to_markdown/images/youtube--IPL8EP8abRU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=IPL8EP8abRU "Final Arduino Project")
+[![Final Arduino Project]](https://img.youtube.com/vi/3Gjiqb4f2Bg/maxresdefault.jpg)](https://www.youtube.com/watch?v=3Gjiqb4f2Bg)
 
 # Final Schematic Sir Kickington 
 ![Relevant Name]
@@ -23,3 +23,4 @@ My
 
 
 ![First](https://live.staticflickr.com/65535/54086768844_528df78dde_n.jpg)
+
